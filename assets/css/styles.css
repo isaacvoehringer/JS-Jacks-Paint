@@ -38,4 +38,11 @@ body{
     height: 5.5em;
   }
 
-  
+  img {
+    opacity:1.0;
+    filter:alpha(opacity=40); 
+  }
+  /* img:hover {
+    opacity:0.6;
+    filter:alpha(opacity=100); 
+  } */
